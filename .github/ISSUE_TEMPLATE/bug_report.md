@@ -1,9 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: "🐞 Bug Report"
+about: "Report a glitch, error, or unexpected behavior in ChatBuddy."
+title: "[BUG] "
+labels: "bug"
+assignees: ""
 
 ---
 
@@ -12,27 +12,17 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. In-game, I typed '...'
+2. ChatBuddy responded with '....'
+3. I checked the console and saw '....'
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Server Environment (Mandatory)**
+ - Server Version: [e.g. Paper 1.21.1]
+ - NSR-AI Version: [e.g. 1.4]
+ - ChatBuddy Version: [e.g. 1.0]
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Additional Context**
+Paste any console errors (logs) or screenshots here. If it's a prompt issue, tell us what the AI said incorrectly.
